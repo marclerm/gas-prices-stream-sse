@@ -19,10 +19,9 @@ The point is to show how to do real-time UI updates _cleanly_ on a modern
 stack: streaming `IResult`s on the server, and signal-based change detection
 on a zoneless Angular client.
 
-![demo](docs/demo.gif)
+![demo](/demo.gif)
 
-> _Record a short screen capture and save it as `docs/demo.gif` to populate the
-> screenshot above._
+> Demo
 
 ## What's in here
 
