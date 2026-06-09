@@ -21,7 +21,7 @@ on a zoneless Angular client.
 
 ![demo](/demo.gif)
 
-> Demo
+> Demo (open in a new tab for better visualization)
 
 ## What's in here
 
